@@ -5,9 +5,10 @@
 .box {
     background: #c3b5b5;
     height: 60px;
-    width: 100px;
+    width: 1920px;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
 }
+
