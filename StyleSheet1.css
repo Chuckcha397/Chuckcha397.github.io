@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 10;
+}
+.box{
+    background: #c3b5b5;
+    height: 60;
+    width: 100;
+    position: fixed;
+}
