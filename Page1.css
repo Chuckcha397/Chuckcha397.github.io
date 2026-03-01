@@ -2,7 +2,7 @@
     margin: 0;
     padding: 100px;
 }
-.box {
+#headline {
     background: #c3b5b5;
     height: 60px;
     width: 1920px;
@@ -11,10 +11,14 @@
     left: 0;
     right: 0;
     align-items: center;
-    #button1 {
-        align-self: auto;
-    }
 }
+#sideline {
+    background: #636363;
+    height: calc(100vh - 60px);
+    left: 0;
+    align-items: center;
+}
+
 
 
 
