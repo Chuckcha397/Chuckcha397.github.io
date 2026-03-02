@@ -14,13 +14,19 @@
 }
 #sideline {
     background: #636363;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
     height: calc(100vh - 15vh);
     width: 20%;
     left: 0;
     top: 15vh;
     align-items: center;
+    padding-top: 20px;
     justify-content: flex-start;
+    box-sizing: border-box;
 }
+
 
 
 
