@@ -5,7 +5,7 @@
 #headline {
     background: #c3b5b5;
     height: 60px;
-    width: 1920px;
+    width: 100%;
     position: fixed;
     top: 0;
     left: 0;
@@ -15,9 +15,12 @@
 #sideline {
     background: #636363;
     height: calc(100vh - 60px);
+    width: 20%;
     left: 0;
+    top: 0;
     align-items: center;
 }
+
 
 
 
