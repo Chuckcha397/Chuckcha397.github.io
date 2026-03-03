@@ -1,5 +1,5 @@
 ﻿body {
-    margin: 0;
+    margin: 10;
 }
 #headline {
     background: #c3b5b5;
@@ -27,6 +27,7 @@
     justify-content: flex-start;
     box-sizing: border-box;
 }
+
 
 
 
