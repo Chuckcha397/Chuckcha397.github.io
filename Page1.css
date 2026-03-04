@@ -38,7 +38,8 @@ summary { list-style: none; display: flex; align-items: center; cursor: pointer;
 }
 
 details[open] .material-symbols-outlined {
-  transform: rotate(180deg);
+  transform: rotate(90deg);
+
 
 
 
