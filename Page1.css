@@ -2,7 +2,7 @@
     margin: 10;
 }
 #headline {
-    background: #c3b5b5;
+    background: #9C9784;
     height: 10vh;
     width: 100%;
     position: fixed;
@@ -14,7 +14,7 @@
     display: flex;
 }
 #sideline {
-    background: #FAEBD7; 
+    background: #8B9491; 
     position: fixed;
     display: flex;
     flex-direction: column;
@@ -28,6 +28,7 @@
     justify-content: flex-start;
     box-sizing: border-box;
 }
+
 
 
 
