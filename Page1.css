@@ -33,12 +33,13 @@ summary::-webkit-details-marker { display: none; }
 summary { list-style: none; display: flex; align-items: center; cursor: pointer; }
 
 .material-symbols-outlined {
-  transition: transform 0.3s;
+  transition: transform 0.5s;
   margin-left: 10px;
 }
 
 details[open] .material-symbols-outlined {
   transform: rotate(360deg);
+
 
 
 
