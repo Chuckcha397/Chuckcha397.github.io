@@ -3,7 +3,7 @@
 }
 #headline {
     background: #c3b5b5;
-    height: 15vh;
+    height: 10vh;
     width: 100%;
     position: fixed;
     top: 0;
@@ -14,20 +14,21 @@
     display: flex;
 }
 #sideline {
-    background: #636363;
+    background: #FAEBD7; 
     position: fixed;
     display: flex;
     flex-direction: column;
-    height: calc(100vh - 15vh);
+    height: calc(100vh - 10vh);
     width: 20%;
     left: 0;
-    top: 15vh;
+    top: 10vh;
     bottom: 0;
     align-items: center;
     padding-top: 20px;
     justify-content: flex-start;
     box-sizing: border-box;
 }
+
 
 
 
