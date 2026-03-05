@@ -37,8 +37,9 @@ summary { list-style: none; display: flex; align-items: center; cursor: pointer;
   margin-left: 10px;
 }
 
-details[open] .material-symbols-outlined {
+details[open] > summary .material-symbols-outlined {
   transform: rotate(360deg);
+
 
 
 
